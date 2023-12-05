@@ -16,7 +16,7 @@ generation.
     called Pokemon SAV Editor (PSE) and it’s entire function is to help promote
     rapid development for competitive play. The main, and most important,
     feature is that you are able to customize the player’s party and that was
-    the main focus point for this capstone project..
+    the main focus point for this capstone project.
 
 	In the first category, “Software Design/Engineering”, PSE displays my solid
     grasp of good software design and engineering. The major area here is in my
@@ -88,7 +88,45 @@ generation.
 ## Professional Self-Assessment
 
 ```
-	While working through a BS in computer science, I developed a number of skills thanks to the course work and on the side when I had free time to self-study concepts. The classes taken were an invaluable for my foundation in computer science, as well as computer programming. I spent a lot of time and effort in these classes and this very clearly paid off.
-	In CS-320 (Software Testing, Automation, and Quality Assurance), I learned a lot about collaborating in a team environment with git in GitLab. In CS-250 (Software Development Lifecycle), I learned about communicating to stakeholders in an agile setting, where we communicated user stories and translated specialized language into layman terminology for an easy way to bridge the gap between the various teams involved in a project. In CS-260 (Data Structures and Algorithms), I learned about both algorithms and data structures, as per the name of the class, where I learned to traverse various trees and hash tables, as well as the mentality to have when attempting to solve a problem in the most efficient way possible. In my DAD-220 (Introduction to Structural Database Environments), I learned about databases and how to use MySQL from both the interpreter as well as from other languages which resulted in my ability to build CRUD functionality with ease and made me have a better understanding of how to think about database management. In IT-312 (Software Devel w/C++), I become familiar with software engineering (as well as C++) concepts that helped me breakdown a program into an easier to digest code base to be easy to read through, easy to modify, and efficiently produced. Finally, with regards to security, I had not taken a class that assisted me with security yet. However, my experience with the “cyberSNHUpers”, the South New Hampshire University Cybersecurity club, has helped me gain a lot of good ways to find exploits, and thus how to correct, problems in a given program. 
-	The way that my artifacts fit together with my skill growth is self-evident. My artifact showcases each of these concepts together to build a well built program that achieves exactly what it sets out to do in a very, very quick way. The Pokemon SAV Editor accesses a file, protects the user’s save file from being lost, makes the user desired edits while taking into account a malicious user by sanitizing the few strings that are taken by the user, assembles a hash check to confirm the file is acceptable, implements CRUD for a database for editing the program for use with regards to hacked version of the SAV file, and implements algorithmic solutions that could not be improved upon due to being the best complexity outcome possible.
+	While working through a BS in computer science, I developed a number of
+    skills thanks to the course work and on the side when I had free time to
+    self-study concepts. The classes taken were an invaluable for my foundation
+    in computer science, as well as computer programming. I spent a lot of time
+    and effort in these classes and this very clearly paid off.
+
+	In CS-320 (Software Testing, Automation, and Quality Assurance), I learned
+    a lot about collaborating in a team environment with git in GitLab. In
+    CS-250 (Software Development Lifecycle), I learned about communicating to
+    stakeholders in an agile setting, where we communicated user stories and
+    translated specialized language into layman terminology for an easy way to
+    bridge the gap between the various teams involved in a project. In CS-260
+    (Data Structures and Algorithms), I learned about both algorithms and data
+    structures, as per the name of the class, where I learned to traverse
+    various trees and hash tables, as well as the mentality to have when
+    attempting to solve a problem in the most efficient way possible. In my
+    DAD-220 (Introduction to Structural Database Environments), I learned about
+    databases and how to use MySQL from both the interpreter as well as from
+    other languages which resulted in my ability to build CRUD functionality
+    with ease and made me have a better understanding of how to think about
+    database management. In IT-312 (Software Devel w/C++), I become familiar
+    with software engineering (as well as C++) concepts that helped me
+    breakdown a program into an easier to digest code base to be easy to read
+    through, easy to modify, and efficiently produced. Finally, with regards to
+    security, I had not taken a class that assisted me with security yet.
+    However, my experience with the “cyberSNHUpers”, the South New Hampshire
+    University Cybersecurity club, has helped me gain a lot of good ways to
+    find exploits, and thus how to correct, problems in a given program. 
+
+	The way that my artifacts fit together with my skill growth is
+    self-evident. My artifact showcases each of these concepts together to
+    build a well built program that achieves exactly what it sets out to do in
+    a very, very quick way. The Pokemon SAV Editor accesses a file, protects
+    the user’s save file from being lost, makes the user desired edits while
+    taking into account a malicious user by sanitizing the few strings that are
+    taken by the user, assembles a hash check to confirm the file is
+    acceptable, implements CRUD for a database for editing the program for use
+    with regards to hacked version of the SAV file, and implements algorithmic
+    solutions that could not be improved upon due to being the best complexity
+    outcome possible.
+
 ```
