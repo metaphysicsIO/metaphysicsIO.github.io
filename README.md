@@ -127,14 +127,4 @@ However, my experience with the “cyberSNHUpers”, the South New Hampshire
 University Cybersecurity club, has helped me gain a lot of good ways to
 find exploits, and thus how to correct, problems in a given program. 
 
-The way that my artifacts fit together with my skill growth is
-self-evident. My artifact showcases each of these concepts together to
-build a well built program that achieves exactly what it sets out to do in
-a very, very quick way. The Pokemon SAV Editor accesses a file, protects
-the user’s save file from being lost, makes the user desired edits while
-taking into account a malicious user by sanitizing the few strings that are
-taken by the user, assembles a hash check to confirm the file is
-acceptable, implements CRUD for a database for editing the program for use
-with regards to hacked version of the SAV file, and implements algorithmic
-solutions that could not be improved upon due to being the best complexity
-outcome possible.
+The way that my artifacts fit together with my skill growth is self-evident. My artifact showcases each of these concepts together to build a well built program that achieves exactly what it sets out to do in a very, very quick way. The Pokemon SAV Editor accesses a file, protects the user’s save file from being lost, makes the user desired edits while taking into account a malicious user by sanitizing the few strings that are taken by the user, assembles a hash check to confirm the file is acceptable, implements CRUD for a database for editing the program for use with regards to hacked version of the SAV file, and implements algorithmic solutions that could not be improved upon due to being the best complexity outcome possible.
