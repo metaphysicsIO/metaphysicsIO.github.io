@@ -26,7 +26,7 @@ the main focus point for this capstone project.
 
 [Category #1 enhancement](https://github.com/metaphysicsIO/Pokemon-Sav-Editor/commit/85a60e088b64477fb5935a9bea738d79beeda7ea)
 
-	In the first category, “Software Design/Engineering”, PSE displays my solid
+In the first category, “Software Design/Engineering”, PSE displays my solid
 grasp of good software design and engineering. The major area here is in my
 backup system that both prevents accidental data loss that is sympathetic
 to the user by not cluttering up their folder. Another prominent feature is
@@ -48,7 +48,7 @@ audiences and contexts” due to the documentation/comments, the security
 mindset of checking user input, as well as allowing the user to rollback
 with the backup functionality.
 
-	On reflection of the first category, over the last several weeks I became
+On reflection of the first category, over the last several weeks I became
 very comfortable with C++ again. I have not have to look up documentation
 very often and I think this is a great sign for my progress. With regards
 to the given feedback, I made changes with issues that were of high
@@ -59,7 +59,7 @@ the given time constraints.
 
 [Category #2 enhancement](https://github.com/metaphysicsIO/Pokemon-Sav-Editor/commit/a1f7155a1ea42fd7afa1c1546d11a6412dbd06bd)
 
-	In the second category, “Algorithms and Data Structures”, PSE shows my
+In the second category, “Algorithms and Data Structures”, PSE shows my
 execution of this category perfectly. Not only did I I developed, designed,
 and implemented the functionality of editing the party’s attributes, which
 is the main purpose of the program, but I also reduced the complexity of
@@ -70,7 +70,7 @@ solutions that solve a given problem using algorithmic principles and
 computer science practices and standards appropriate to its solution, while
 managing the trade-offs involved in design choices.
 
-	On reflection of the second category, my feedback is in my writing and,
+On reflection of the second category, my feedback is in my writing and,
 while I don’t want to work with people who need everything spelled out to
 them, I do recognize that the world is a place where most people are so
 genuinely stupid and incompetent that if they were horses, we wouldn’t
@@ -79,7 +79,7 @@ to keep them hydrated.
 
 [Category #3 enhancement](https://github.com/metaphysicsIO/Pokemon-Sav-Editor/commit/211369a126af84b5771e346ca5a3811a053ed172)
 
-	In the third category, “Databases”, PSE shows my understanding of CRUD
+In the third category, “Databases”, PSE shows my understanding of CRUD
 functionality with SQL. This program was made with modularity in mind, so
 this implementation allows for custom ROM hacks of Blue and Red may be used
 along with this program. My usage of MySQL, Python, and force C++ to
@@ -88,7 +88,7 @@ well-founded and innovative techniques, skills, and tools in computing
 practices for the purpose of implementing computer solutions that deliver
 value and accomplish industry-specific goals.”
 
-	Upon reflection of the third category, the feedback I was given was fairly
+Upon reflection of the third category, the feedback I was given was fairly
 positive towards my database code itself, except for documentation of the
 author in the header of the program. I went through each of my files and
 added what I could at the top of each file, and it is much nicer to know
@@ -98,13 +98,13 @@ understand what is going on in that file.
 
 ## Professional Self-Assessment
 
-	While working through a BS in computer science, I developed a number of
+While working through a BS in computer science, I developed a number of
 skills thanks to the course work and on the side when I had free time to
 self-study concepts. The classes taken were an invaluable for my foundation
 in computer science, as well as computer programming. I spent a lot of time
 and effort in these classes and this very clearly paid off.
 
-	In CS-320 (Software Testing, Automation, and Quality Assurance), I learned
+In CS-320 (Software Testing, Automation, and Quality Assurance), I learned
 a lot about collaborating in a team environment with git in GitLab. In
 CS-250 (Software Development Lifecycle), I learned about communicating to
 stakeholders in an agile setting, where we communicated user stories and
@@ -127,7 +127,7 @@ However, my experience with the “cyberSNHUpers”, the South New Hampshire
 University Cybersecurity club, has helped me gain a lot of good ways to
 find exploits, and thus how to correct, problems in a given program. 
 
-	The way that my artifacts fit together with my skill growth is
+The way that my artifacts fit together with my skill growth is
 self-evident. My artifact showcases each of these concepts together to
 build a well built program that achieves exactly what it sets out to do in
 a very, very quick way. The Pokemon SAV Editor accesses a file, protects
@@ -138,5 +138,3 @@ acceptable, implements CRUD for a database for editing the program for use
 with regards to hacked version of the SAV file, and implements algorithmic
 solutions that could not be improved upon due to being the best complexity
 outcome possible.
-
-
