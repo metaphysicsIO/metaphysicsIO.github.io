@@ -1,7 +1,11 @@
 # metaphysicsIO.github.io
 
 ## Code review
-N/A
+N/A 
+
+## Original, Pre-enhanced Artifact
+
+[original.zip](original.zip)
 
 ## Enhanced Artifact
 [Pokemon SAV Editor](https://github.com/metaphysicsIO/Pokemon-Sav-Editor)
@@ -11,12 +15,14 @@ Currently supports Generation 1 (Red/Blue) only, as well as ROM hacks of that
 generation.
 
 ## Narrative
-```
-	I have one artifact that covers the three categories. This project is
+	
+    I have one artifact that covers the three categories. This project is
     called Pokemon SAV Editor (PSE) and it’s entire function is to help promote
     rapid development for competitive play. The main, and most important,
     feature is that you are able to customize the player’s party and that was
     the main focus point for this capstone project.
+
+    [Category #1 enhancement](https://github.com/metaphysicsIO/Pokemon-Sav-Editor/commit/85a60e088b64477fb5935a9bea738d79beeda7ea)
 
 	In the first category, “Software Design/Engineering”, PSE displays my solid
     grasp of good software design and engineering. The major area here is in my
@@ -49,6 +55,8 @@ generation.
     This was a very useful way for me to recognize my own limitations within
     the given time constraints.
 
+    [Category #2 enhancement](https://github.com/metaphysicsIO/Pokemon-Sav-Editor/commit/a1f7155a1ea42fd7afa1c1546d11a6412dbd06bd)
+
 	In the second category, “Algorithms and Data Structures”, PSE shows my
     execution of this category perfectly. Not only did I I developed, designed,
     and implemented the functionality of editing the party’s attributes, which
@@ -67,6 +75,8 @@ generation.
     bother leading them to water, we’d simply inject them with saline solutions
     to keep them hydrated.
 
+    [Category #3 enhancement](https://github.com/metaphysicsIO/Pokemon-Sav-Editor/commit/211369a126af84b5771e346ca5a3811a053ed172)
+
 	In the third category, “Databases”, PSE shows my understanding of CRUD
     functionality with SQL. This program was made with modularity in mind, so
     this implementation allows for custom ROM hacks of Blue and Red may be used
@@ -83,11 +93,9 @@ generation.
     the purpose of the file as well as known issues. This isn’t something I had
     considered doing before, but I like it because it makes it much easier to
     understand what is going on in that file.
-```
 
 ## Professional Self-Assessment
 
-```
 	While working through a BS in computer science, I developed a number of
     skills thanks to the course work and on the side when I had free time to
     self-study concepts. The classes taken were an invaluable for my foundation
@@ -129,4 +137,3 @@ generation.
     solutions that could not be improved upon due to being the best complexity
     outcome possible.
 
-```
